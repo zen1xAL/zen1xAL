@@ -14,6 +14,9 @@ Frontend Developer • React & TypeScript
   <a href="https://github.com/zen1xAL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/aliaksandr-vlasavets">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -60,7 +63,7 @@ Solidity • Hardhat • Wagmi / Viem • PostgreSQL
 
 ## 📌 Featured Projects
 
-- **[KAIROS](https://github.com/zen1xAL/kairos-platform)** – crypto asset platform with live OKX/Binance WebSocket price feeds and Google OAuth2 authentication on a PHP backend. [Live demo](https://kairos-platform-six.vercel.app/)
+- **[KAIROS](https://github.com/zen1xAL/kairos-platform)** – crypto asset platform with live OKX/Binance WebSocket price feeds and Google OAuth2 authentication on a PHP backend. [Live demo](https://kairos-platform-app.vercel.app)
 - **[Modsen Calendar](https://github.com/zen1xAL/modsen-practice)** – calendar app built during my internship at Modsen (React 19, TypeScript, Redux Toolkit), now integrated with Supabase. [Live demo](https://modsen-practice-indol.vercel.app/)
 - **Crypto Tracker** – real-time cryptocurrency market SPA with interactive charts (React, TypeScript, Vite, Recharts, CoinGecko API)
 - **Book Catalog** – vanilla JS book search app with debounced live search and a favorites list (Open Library API)
@@ -87,5 +90,8 @@ Open to frontend/JavaScript internship opportunities – feel free to reach out 
   </a>
   <a href="https://github.com/zen1xAL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aliaksandr-vlasavets">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
