@@ -23,9 +23,9 @@ Frontend Developer • React & TypeScript
 
 ## 💫 About Me
 
-**Frontend Developer** specializing in building responsive, accessible, and high-performance web and mobile applications with **React**, **TypeScript**, and **React Native**.
+**Frontend Developer** with hands-on commercial experience building responsive, accessible, and high-performance web and mobile applications with **React 19**, **TypeScript**, and **React Native**.
 
-Experienced in commercial frontend engineering at **Modsen**, architecting scalable UI foundations with SCSS/BEM design tokens, engineering real-time WebSocket feeds with heartbeat resilience, and delivering pixel-perfect SPAs end-to-end.
+Strong foundation in native web standards (pure Vanilla JS, DOM API, semantic HTML5) alongside modern reactive ecosystems. Experienced in engineering resilient real-time WebSocket ticker feeds with failover mechanisms, building interactive Drag-and-Drop interfaces (`@dnd-kit`), and establishing scalable SCSS/BEM design token architectures. Focused on clean code, automated code quality (**Husky**, **Prettier**, **ESLint**, **Commitlint**), and seamless user experiences.
 
 ---
 
@@ -34,9 +34,10 @@ Experienced in commercial frontend engineering at **Modsen**, architecting scala
 - ⚛️ Production-ready React 19 & TypeScript applications
 - 🧠 Predictable state architecture with Redux Toolkit (RTK Query)
 - 🔌 Resilient real-time data streaming over WebSockets (failover & heartbeat)
-- 📱 Cross-platform mobile development with React Native
-- 🎨 Enterprise-grade UI systems: SCSS/BEM, Design Tokens & WAI-ARIA accessibility
-- ⚡ Modern tooling and automated deployment (Vite, Supabase, Vercel)
+- 📱 Cross-platform mobile development with React Native & Expo
+- 🎨 Enterprise UI systems: SCSS/BEM, Design Tokens, Tailwind CSS v4 & WAI-ARIA
+- 🛠️ Production code quality automation: ESLint, Prettier, Husky & Commitlint
+- ⚡ Modern tooling and automated deployment: Vite, Supabase & Vercel
 
 ---
 
@@ -46,26 +47,26 @@ Experienced in commercial frontend engineering at **Modsen**, architecting scala
 JavaScript (ES6+) • TypeScript • HTML5 • CSS3/SCSS
 
 ### Frontend & Mobile
-React 19 • React Native • Redux Toolkit (RTK Query) • React Router • Context API • Tailwind CSS
+React 19 • React Native (Expo) • Redux Toolkit • React Router • Context API • Tailwind CSS v4 • @dnd-kit (Drag-and-Drop)
 
 ### Real-Time & Protocols
-WebSockets (Heartbeat, Failover) • REST APIs • Fetch API • HTTP
+WebSockets (Heartbeat, Failover) • REST APIs • Fetch API • HTTP • Axios
 
-### Backend & Cloud
-Node.js • Express.js • Supabase • Firebase • PHP 8+
+### Backend & Storage
+Node.js • Express.js • Supabase • Firebase • SQLite • AsyncStorage • PHP 8+
 
-### Tools & Workflow
-Git • GitHub • Vite • Vercel • npm • yarn • ESLint • Figma
+### Code Quality & Tools
+Git • GitHub • Vite • Vercel • ESLint • Prettier • Husky • Commitlint • Figma
 
 ---
 
 ## 📌 Featured Projects
 
 - **[KAIROS](https://github.com/zen1xAL/kairos-platform)** – Real-time cryptocurrency asset platform featuring live OKX/Binance WebSocket price feeds with automated failover and Google OAuth2 stateless authentication on PHP backend. [Live Demo](https://kairos-platform-app.vercel.app)
-- **[Modsen Calendar](https://github.com/zen1xAL/modsen-practice)** – Interactive calendar SPA developed during commercial tenure at Modsen (React 19, TypeScript, Redux Toolkit) with SCSS/BEM design tokens, WAI-ARIA focus traps, and Supabase integration. [Live Demo](https://modsen-practice-indol.vercel.app/)
-- **[Health Diary](https://github.com/zen1xAL/health-diary)** – Cross-platform physical activity tracking mobile application built with React Native and TypeScript, featuring offline-first persistence via AsyncStorage and custom themes.
-- **[Crypto Tracker](https://github.com/zen1xAL/crypto-tracker)** – Real-time cryptocurrency market SPA with instant client-side filtering and 14-day interactive price visualization charts using Recharts and CoinGecko API.
-- **[Book Catalog](https://github.com/zen1xAL/book-catalog)** – Vanilla JavaScript book search web application featuring debounced live search and local storage favorites management with zero external UI libraries.
+- **[Modsen Calendar](https://github.com/zen1xAL/modsen-practice)** – Interactive calendar SPA developed during commercial tenure at Modsen (React 19, TypeScript, Redux Toolkit) with `@dnd-kit` drag-and-drop scheduling, SCSS/BEM design tokens, WAI-ARIA focus traps, Supabase integration, and Husky/Prettier automation. [Live Demo](https://modsen-practice-indol.vercel.app/)
+- **[Health Diary](https://github.com/zen1xAL/health-diary)** – Cross-platform physical activity tracking mobile application built with React Native and Expo, featuring offline-first persistence combining AsyncStorage and SQLite, Fuse.js fuzzy search, and i18next (EN/RU).
+- **[Crypto Tracker](https://github.com/zen1xAL/crypto-tracker)** – Real-time cryptocurrency market SPA with client-side rate-limit handling (HTTP 429), 14-day interactive price trend visualization via Recharts, and Tailwind CSS v4 design tokens.
+- **[Book Catalog](https://github.com/zen1xAL/book-catalog)** – Vanilla JavaScript book search web application featuring debounced live search, modular architecture separating API, state, and DOM renderers with zero external UI libraries.
 
 ---
 
