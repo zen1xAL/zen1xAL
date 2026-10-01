@@ -11,9 +11,6 @@ Frontend Developer • React & TypeScript
   <a href="mailto:alexandervlasavets@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/zen1xAL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/aliaksandr-vlasavets">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -56,7 +53,7 @@ WebSockets (Heartbeat, Failover) • REST APIs • Fetch API • HTTP • Axios
 Node.js • Express.js • Supabase • Firebase • SQLite • AsyncStorage • PHP 8+
 
 ### Code Quality & Tools
-Git • GitHub • Vite • Vercel • ESLint • Prettier • Husky • Commitlint • Figma
+Git • Vite • Vercel • ESLint • Prettier • Husky • Commitlint • Figma
 
 ---
 
