@@ -64,7 +64,7 @@ Git • GitHub • Vite • Vercel • ESLint • Prettier • Husky • Commitl
 
 - **[KAIROS](https://github.com/zen1xAL/kairos-platform)** – Real-time cryptocurrency asset platform featuring live OKX/Binance WebSocket price feeds with automated failover and Google OAuth2 stateless authentication on PHP backend. [Live Demo](https://kairos-platform-app.vercel.app)
 - **[Modsen Calendar](https://github.com/zen1xAL/modsen-practice)** – Interactive calendar SPA developed during commercial tenure at Modsen (React 19, TypeScript, Redux Toolkit) with `@dnd-kit` drag-and-drop scheduling, SCSS/BEM design tokens, WAI-ARIA focus traps, Supabase integration, and Husky/Prettier automation. [Live Demo](https://modsen-practice-indol.vercel.app/)
-- **[Health Diary](https://github.com/zen1xAL/health-diary)** – Cross-platform physical activity tracking mobile application built with React Native and Expo, featuring offline-first persistence combining AsyncStorage and SQLite, Fuse.js fuzzy search, and i18next (EN/RU).
+- **[Health Diary](https://github.com/zen1xAL/health-diary)** – Cross-platform physical activity tracking mobile application built with React Native and Expo, featuring offline-first persistence combining SQLite, AsyncStorage, and Firebase cloud services, with Fuse.js fuzzy search and i18next (EN/RU).
 - **[Crypto Tracker](https://github.com/zen1xAL/crypto-tracker)** – Real-time cryptocurrency market SPA with client-side rate-limit handling (HTTP 429), 14-day interactive price trend visualization via Recharts, and Tailwind CSS v4 design tokens.
 - **[Book Catalog](https://github.com/zen1xAL/book-catalog)** – Vanilla JavaScript book search web application featuring debounced live search, modular architecture separating API, state, and DOM renderers with zero external UI libraries.
 
@@ -72,9 +72,9 @@ Git • GitHub • Vite • Vercel • ESLint • Prettier • Husky • Commitl
 
 ## 📜 Licenses & Certifications
 
-- **Anthropic** — Claude Academy: Claude Code 101 *(Dec 2025 | ID: 8220c33651e0abdecfe83f2726732c98)*
-- **Google** — Learn HTML *(Nov 2025)*
-- **EPAM Systems** — User Interface Development *(HTML, CSS, JS, Git)*
+- **Anthropic** – Claude Academy: Claude Code 101 *(Dec 2025 | ID: 8220c33651e0abdecfe83f2726732c98)*
+- **Google** – Learn HTML *(Nov 2025)*
+- **EPAM Systems** – User Interface Development *(HTML, CSS, JS, Git)*
 
 ---
 
@@ -87,4 +87,4 @@ Software Engineering *(2023 – 2027)*
 
 ## 🌍 Connect With Me
 
-Open to frontend engineering opportunities and collaboration — feel free to reach out via [Telegram](https://t.me/zen1x_aga), [LinkedIn](https://www.linkedin.com/in/aliaksandr-vlasavets), or [Email](mailto:alexandervlasavets@gmail.com).
+Open to frontend engineering opportunities and collaboration – feel free to reach out via [Telegram](https://t.me/zen1x_aga), [LinkedIn](https://www.linkedin.com/in/aliaksandr-vlasavets), or [Email](mailto:alexandervlasavets@gmail.com).
